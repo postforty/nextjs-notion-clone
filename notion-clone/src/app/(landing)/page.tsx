@@ -11,5 +11,5 @@ const LandingPage = () => {
   );
 };
 
-// 4분 부터
+// 5분 30초 부터
 export default LandingPage;
